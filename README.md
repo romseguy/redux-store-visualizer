@@ -21,3 +21,5 @@ npm install
 npm start
 # http://localhost:3000
 ```
+
+Also, the implementation in your own project is really straightforward. Take a look at this [commit](https://github.com/romseguy/redux-store-visualizer/commit/725ee1f4d2b13b73c7ed40a485bc73e7820ba3a4).
