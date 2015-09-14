@@ -8,9 +8,10 @@ Visualize Redux store in real time with [d3-state-visualizer](https://github.com
 
 # Features
 
-- Fully configurable.
-- Hot reloadable since it's only a component that receive any state as props.
-- Redux and React are not hard dependencies, I used my favorite tools for this demo but you can use your own stack.
+- Fully configurable
+- Collapsible nodes
+- Hot reloadable since it's only a component that receive any state as props
+- Redux and React are not hard dependencies, I used my favorite tools for this demo but you can use your own stack
 
 # Try it out yourself!
 
