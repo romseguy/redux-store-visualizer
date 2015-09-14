@@ -1,6 +1,6 @@
 # redux-store-visualizer
 
-Visualize Redux store in real time with [d3-state-visualizer]()
+Visualize Redux store in real time with [d3-state-visualizer](https://github.com/romseguy/d3-state-visualizer)
 
 # Quick demo
 
